@@ -1,0 +1,153 @@
+🎮 Roteiro de Carreira: Desenvolvedor de Jogos Indie
+🏁 Fase 1 — Fundamentos e Autonomia (0–6 meses)
+
+Objetivo: Aprender a criar jogos do zero, sozinho.
+
+🧠 Aprendizado técnico
+
+Escolha sua engine principal:
+🟩 Unity (C#) → excelente para 2D/3D, mobile, PC.
+🟪 Godot (GDScript/C#) → leve, open-source e ótimo para indies.
+🔷 Unreal (Blueprints/C++) → poderoso para 3D e visuais avançados.
+
+Domine o básico:
+
+Loop de jogo (Update / Tick)
+
+Movimento e física
+
+Colisões
+
+Câmera e UI
+
+Gerenciamento de cenas / fases
+
+🎨 Criatividade e design
+
+Estude o básico de game design:
+
+Mecânicas, regras, feedback, progressão e desafio.
+
+Entenda o ciclo ideia → protótipo → playtest → ajuste.
+
+⚒️ Projeto prático
+
+Crie 3 protótipos jogáveis (ex: Pong, Platformer, Top-down Shooter).
+
+Publique no itch.io com builds jogáveis (Windows/Web).
+
+Escreva breves devlogs (texto ou vídeo).
+
+🎯 Meta
+
+👉 Dominar uma engine e criar jogos simples e completos sozinho.
+
+🚀 Fase 2 — Construção de Portfólio (6–18 meses)
+
+Objetivo: Criar jogos com identidade e começar a construir uma base de fãs.
+
+🧩 Desenvolvimento intermediário
+
+Aprenda sistemas comuns de jogos:
+
+Inventário, progresso, save/load
+
+IA de inimigos simples (FSM, pathfinding)
+
+Sons e música dinâmica
+
+Sistema de menus e HUD
+
+Aprenda pipeline completo:
+
+Arte: pixel art, sprites ou assets 3D prontos (Itch, Kenney.nl, PolyPizza)
+
+Som: uso de Bfxr, Freesound, ou ferramentas como FMOD
+
+🌐 Portfólio e identidade
+
+Monte um perfil de desenvolvedor indie:
+
+Site ou Linktree com todos os jogos.
+
+Conta ativa no itch.io, X/Twitter e YouTube.
+
+Use um nome de “estúdio indie” (mesmo que seja só você).
+
+🎮 Projeto principal
+
+Desenvolva um jogo de médio porte (1–2h de gameplay).
+
+Teste com jogadores reais (feedback).
+
+Lançamento público gratuito ou pago simbólico.
+
+🎯 Meta
+
+👉 Ter um portfólio sólido com 3–5 jogos e uma identidade criativa clara.
+
+💼 Fase 3 — Profissionalização e Monetização (2–4 anos)
+
+Objetivo: transformar sua produção indie em uma fonte de renda.
+
+💰 Monetização e negócios
+
+Publique no Steam, Google Play, ou itch.io com apoio no Patreon/Ko-fi.
+
+Aprenda sobre:
+
+Marketing de jogos (press kit, trailers, wishlist).
+
+Planejamento de lançamento e demo.
+
+Controle de custos, precificação e tráfego orgânico.
+
+🧱 Crescimento técnico
+
+Aprenda sobre:
+
+Otimização de performance.
+
+Save systems e persistência.
+
+Ferramentas de build e publicação automatizada.
+
+🤝 Networking e parcerias
+
+Participe de Game Jams (Ludum Dare, Brackeys, Alakajam).
+
+Conecte-se com músicos e artistas visuais.
+
+Interaja em comunidades (Discord, Reddit, Itch, Steamworks).
+
+🎯 Meta
+
+👉 Lançar um jogo comercial completo com boa recepção e feedback.
+
+🌟 Fase 4 — Estúdio Indie Estabelecido (4–7 anos)
+
+Objetivo: transformar o trabalho solo em um estúdio reconhecido.
+
+🧭 Posicionamento
+
+Crie um estilo próprio de jogos (arte, narrativa ou mecânica distinta).
+
+Mantenha consistência estética e temática.
+
+🧠 Avanço técnico e criativo
+
+Explore multiplayer, narrativa procedural, IA avançada, shaders customizados.
+
+Adote ferramentas profissionais de gestão (Trello, Notion, Git).
+
+💸 Sustentabilidade
+
+Publique em múltiplas plataformas (PC, console, mobile).
+
+Considere crowdfunding (Kickstarter, Catarse) ou publishers indie (Devolver, Raw Fury, Fellow Traveller).
+
+Produza conteúdo paralelo (devlogs, streams, mentorias, cursos).
+
+🎯 Meta
+
+👉 Ter um catálogo de jogos comerciais, reconhecimento e renda recorrente.
